@@ -1,0 +1,109 @@
+.logo span {
+    font-family: raleway, sans serif;
+    color: #4D5AE5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+.logo {
+    color: #2E2F42;
+    font-family: Raleway, sans serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 21px; 
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+
+}
+head:hover {
+    color: rgb(129, 5, 102);
+  
+}
+a {
+    text-decoration: none;
+    
+}
+.effective {
+    background-color: #2E2F42;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+    font-family: roboto, sans serif;
+    font-style: normal;
+}
+button {
+    color: white;
+    border-radius: 4px;
+    background: #4D5AE5;
+    border: none;
+    cursor: pointer;   
+}
+button:hover {
+    color:blue;
+    background-color: aqua;
+   
+}
+.strat {
+    font-family: roboto, sans serif;
+    font-style: normal;
+    
+}
+h3 {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .4px;
+
+}
+.doing {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.team {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+footer {
+    background-color: #2E2F42;
+
+}
+.logo2 span {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.logo2 {
+    color: white;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.footp {
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.pointer {
+    cursor: pointer;
+}

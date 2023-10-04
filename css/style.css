@@ -89,8 +89,7 @@ a {
     display: flex;
     width: 1440px;
     height: 602px;
-    justify-content: center;
-    align-items: center;
+   
     flex-shrink: 0;
 }
 h2 {
@@ -99,10 +98,13 @@ h2 {
     font-size: 56px;
     font-family: roboto, sans serif;
     font-style: normal;  
+    justify-content: center;
+    align-items: center;
 }
 
 
 button {
+    
     color: white;
     border-radius: 4px;
     border: none;
@@ -119,9 +121,7 @@ button {
     font-weight: 500;
     line-height: 24px; /* 150% */
     letter-spacing: 0.64px;
-    margin-right: 635;
-    margin-top: 356;
-    margin-bottom: 188;
+   
     
 }
 
@@ -133,9 +133,14 @@ button:hover {
     background-color: rgb(20, 2, 60);
    
 }
+
+.stratcom {
+    flex-direction: column;
+}
 .strat {
     font-family: roboto, sans serif;
     font-style: normal;
+    
     
 }
 h3 {

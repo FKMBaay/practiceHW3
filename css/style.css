@@ -1,200 +1,41 @@
-.logo span {
-    font-family: raleway, sans serif;
-    color: #4D5AE5;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    letter-spacing: 0.54px;
-    margin-left: 156px;
-    margin-top: 25.5px;
-    display: inline-block;
+h1 {
+   color: red;
+    font-size: 80px;
+
+
+
+}
+.box {
+    height: 255px;
+    width: 255px;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: gray;
+    margin: 10px;
+
+   
+
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: dark gray;
+    padding-top: 100px;
+    justify-content: center;
+   
 }
 .logo {
-    color: #2E2F42;
-    font-family: Raleway, sans serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 21px; 
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
-    margin-top: 25.5px;
+    font-size: 50px;
+    color: aqua;
+    size: 15px;
+    display: flex; 
 }
-.studio {
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-left: 347px;
-    margin-right: 40;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
- 
-}
-.portfolio {
-    margin-left: 40px;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
-}
-.contact {
-    margin-left: 40px;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
-}
-.mail {
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-left: 940px;
-    margin-right: 40px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
-}
-.tele {
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-right: 156px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
+.logo span {
+    color: navy;
 
 }
-a {
-    text-decoration: none;
-    
-}
-.effective {
-    background-color: #2E2F42;
-    flex-shrink: 0; 
-    display: flex;
-    width: 1440px;
-    height: 602px;
-   
-    flex-shrink: 0;
-}
-h2 {
-    color: white;
-    text-align: center; 
-    font-size: 56px;
-    font-family: roboto, sans serif;
-    font-style: normal;  
-    justify-content: center;
+.bike {
+    margin-top: 24px;
+    margin-bottom: 24px;
     align-items: center;
-}
-
-
-button {
-    
-    color: white;
-    border-radius: 4px;
-    border: none;
-    cursor: pointer;   
-    background: var(--IRIS, #4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.64px;
-   
-    
-}
-
-
-
-
-button:hover {
-    color:blue;
-    background-color: rgb(20, 2, 60);
-   
-}
-
-.stratcom {
-    flex-direction: column;
-}
-.strat {
-    font-family: roboto, sans serif;
-    font-style: normal;
-    
-    
-}
-h3 {
-    color: #2E2F42;
-    font-family: roboto, sans serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    letter-spacing: .4px;
-
-}
-.doing {
-    color: #2E2F42;
-    font-family: roboto, sans serif;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    text-align: center;
-}
-.team {
-    color: #2E2F42;
-    font-family: roboto, sans serif;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    text-align: center;
-}
-footer {
-    background-color: #2E2F42;
-
-}
-.logo2 span {
-    color: #4D5AE5;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    text-transform: uppercase;
-}
-.logo2 {
-    color: white;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    text-transform: uppercase;
-}
-.footp {
-    color: white;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-}
-.pointer {
-    cursor: pointer;
 }
